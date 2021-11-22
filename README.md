@@ -7,16 +7,12 @@
 <samp>
  <b><h2 style="color: #fc6203">B O N F I R E &nbsp; L I T !</h2> </b>
 
-<p align="center">LinkedIn</p>
+<p align="center" href="https://www.linkedin.com/in/jack-m-gilbride/">>LinkedIn</p>
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
 Current Project: <a href="https://github.com/ThatGuyGilby/PlatformFighter">A platform fighter package for Unity!</a>
 
 <p align="center">
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/jack-m-gilbride//">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/linkedin.png" width="30px" alt="LinkedIn"></a>
-  &nbsp; 
-  &nbsp;
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev/estus-flask">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/estus_flask.png" width="23px" alt="Secret"></a>
 </p> 
