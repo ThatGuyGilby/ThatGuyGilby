@@ -1,1 +1,2 @@
-[![Header](https://media-exp1.licdn.com/dms/image/C4D16AQGpLm43oyZZtQ/profile-displaybackgroundimage-shrink_200_800/0/1571703534378?e=1643241600&v=beta&t=xEZ05dxc0r8mP_WpUbl4hp1jZYpECxiO6opDjikafW0 "Header")](https://www.linkedin.com/in/jack-m-gilbride/)
+<h1 align="center">Hi 👋, I'm Jack Gilbride</h1>
+<h3 align="center">I'm Jack Gilbride, a 21-year old Games Software Engineering Graduate with a passion for developing game systems.</h3>
