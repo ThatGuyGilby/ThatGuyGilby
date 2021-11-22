@@ -35,4 +35,6 @@ Current Project: <a href="https://github.com/ThatGuyGilby/PlatformFighter">A pla
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=thatguygilby&theme=onedark" alt="thatguygilby" /> </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <p align="center"> <img src="https://raw.githubusercontent.com/ThatGuyGilby/ThatGuyGilby/output/github-contribution-grid-snake.svg" alt="thatguygilby" /> </p>
