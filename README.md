@@ -3,4 +3,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thatguygilby" alt="thatguygilby" /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thatguygilby&show_icons=true" alt="thatguygilby" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thatguygilby&show_icons=true&count_private=true" alt="thatguygilby" /></p>
