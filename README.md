@@ -11,13 +11,6 @@
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
 Current Project: <a href="https://github.com/ThatGuyGilby/PlatformFighter">A platform fighter package for Unity!</a>
-
-<p align="center">
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev/estus-flask">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/estus_flask.png" width="23px" alt="Secret"></a>
-</p> 
-
-
 </samp>
 </details>
 
