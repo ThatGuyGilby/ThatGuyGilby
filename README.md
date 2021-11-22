@@ -8,6 +8,7 @@
  <b><h2 style="color: #fc6203">B O N F I R E &nbsp; L I T !</h2> </b>
 
 <p align="center"><a href="https://www.linkedin.com/in/jack-m-gilbride/">LinkedIn</a></p>
+<p align="center"><a href="https://www.behance.net/Jack-M-Gilbride">Behance</a></p>
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
 Current Project: <a href="https://github.com/ThatGuyGilby/PlatformFighter">A platform fighter package for Unity!</a>
