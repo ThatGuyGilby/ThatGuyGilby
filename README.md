@@ -12,4 +12,4 @@
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=thatguygilby&theme=onedark" alt="thatguygilby" /> </p>
 
-<p align="center"> <img src="https://raw.githubusercontent.com/ThatGuyGilby/ThatGuyGilby/main/github-user-contribution.svg" alt="thatguygilby" /> </p>
+<p align="center"> <img src="dist/github-contribution-grid-snake.gif" alt="thatguygilby" /> </p>
