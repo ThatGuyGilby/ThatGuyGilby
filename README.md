@@ -3,9 +3,9 @@
 
 <details align="center">
 
-<summary> <b> <samp> Light bonfire (Socials)</samp></b></summary>
+<summary> <a> <samp> Light bonfire (Socials)</samp></a></summary>
 <samp>
- <b><h2 style="color: #fc6203">B O N F I R E &nbsp; L I T !</h2> </b>
+ <a><h2 style="color: #fc6203">B O N F I R E &nbsp; L I T !</h2> </a>
 
 <p align="center"><a href="https://www.linkedin.com/in/jack-m-gilbride/" style="color: #fc6203">LinkedIn</a></p>
 <p align="center"><a href="https://www.behance.net/Jack-M-Gilbride" style="color: #fc6203">Behance</a></p>
