@@ -7,6 +7,8 @@
 <samp>
  <a><h2 style="color: #fc6203">B O N F I R E &nbsp; L I T !</h2> </a>
 
+I’m a hard-working and passionate Games Software Engineering graduate who studied at Bournemouth University. I achieved my place at BU with an academic excellence scholarship as a result of achieving a triple distinction in my extended diploma. During my time at BU I served as the student representative of my seminar group for all three years of my studies. I have a wide range of technical skills, most importantly a firm grasp of C++, C# and Python. I have worked with C# and Unity for 6 years and have 4 years of C++ experience, with 2 years of experience using Unreal Engine. I have self published my first commercial game on Steam, an action roguelike developed in Unity using C#. I have been working on games in various engines since the age of nine and also worked on an upcoming mobile game from Poly Fruit Studios. I am extremely excited to be starting work in the industry with its leaders and innovators.
+ 
 <p align="center"><a href="https://www.linkedin.com/in/jack-m-gilbride/" style="color: #fc6203">LinkedIn</a></p>
 <p align="center"><a href="https://www.behance.net/Jack-M-Gilbride" style="color: #fc6203">Behance</a></p>
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
