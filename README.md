@@ -3,7 +3,7 @@
 
 <details align="center">
 
-<summary> <a> <samp> Light bonfire (Socials)</samp></a></summary>
+<summary> <a> <samp> Light bonfire (More Information)</samp></a></summary>
 <samp>
  <a><h2 style="color: #fc6203">B O N F I R E &nbsp; L I T !</h2> </a>
 
