@@ -13,7 +13,7 @@ I’m a hard-working and passionate Games Software Engineering graduate who stud
 <p align="center"><a href="https://www.behance.net/Jack-M-Gilbride" style="color: #fc6203">Behance</a></p>
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
-Current Project: <a href="https://github.com/ThatGuyGilby/PokemonClone">A Pokemon-Style Battle System using Unity</a>
+Current Project: <a href="https://github.com/ThatGuyGilby/SortManager">Implementing a sorting systerm using a custom Interface in Java</a>
 </samp>
 </details>
 
