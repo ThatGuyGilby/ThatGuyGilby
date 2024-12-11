@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jack Gilbride</h1>
-<h3 align="center">I'm Jack Gilbride, a 23-year old Java SDET with a passion for developing game systems.</h3>
+<h3 align="center">I'm Jack Gilbride, a 24-year old Java SDET with a passion for developing game systems.</h3>
 
 <details align="center">
 
