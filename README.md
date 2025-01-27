@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Jack Gilbride</h1> <h3 align="center">A passionate Software Engineer with a love for game systems and automation.</h3> <details align="center"> <summary><a><samp> 🔥 Light Bonfire (More Information) 🔥</samp></a></summary> <samp> <a><h2 style="color: #fc6203">🔥 B O N F I R E &nbsp; L I T ! 🔥</h2></a>
 
-I’m a **Games Software Engineering graduate** from Bournemouth University, awarded an Academic Excellence Scholarship for outstanding performance. With over a decade of experience, I specialize in **C++**, **C#**, and **Unity**, coupled with strong knowledge in **automation testing** and CI/CD pipelines.
+I’m a **Games Software Engineering graduate** from Bournemouth University, awarded an Academic Excellence Scholarship for outstanding performance. With over a decade of experience, I specialize in **C++**, **C#**, **Java**, and **Unity**, coupled with strong knowledge in **automation testing** and CI/CD pipelines.
 
 **Key Highlights:**
 
